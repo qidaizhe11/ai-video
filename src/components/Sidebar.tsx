@@ -17,7 +17,7 @@ const Sidebar = () => {
           </li>
           <li className="border-t my-2"></li>
           <li>
-            <Link href="/create" className="block py-2 px-4 hover:bg-gray-100 rounded-lg">
+            <Link href="/video/create" className="block py-2 px-4 hover:bg-gray-100 rounded-lg">
               AI 视频
             </Link>
           </li>
